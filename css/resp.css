@@ -1,0 +1,56 @@
+@media screen and (max-width:1100px){
+  .bdy{
+    background-color: rgb(88, 252, 88);
+  } 
+
+  
+  .logo{
+      justify-content: center;
+      margin: 12px 0;
+    }
+    
+    nav{
+      flex-direction: column;
+    }
+
+nav ul{
+    justify-content: center;
+     height: 34px;
+}
+
+.search{
+    justify-content: center;
+}
+
+.search input{
+    margin: 12px 16px;
+}
+
+.slider{
+    height: 23vh;
+}
+.card{ display: inline-flex;
+    flex-direction: column;
+    margin: 5vh;
+    height: auto;
+    
+}
+
+.card h2{
+    margin-left: 45%;
+    
+}
+
+.card-item{
+   display: inline-flex;
+    margin: 2vh auto;
+    flex-direction: column;
+   
+    
+}
+.text-center{
+    margin: .5vh auto;
+   
+}
+
+}

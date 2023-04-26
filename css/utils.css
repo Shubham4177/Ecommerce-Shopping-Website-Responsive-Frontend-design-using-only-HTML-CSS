@@ -1,0 +1,19 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding: 0px 3px;
+    background: black;
+    color: yellow;
+    border-radius: 8px; 
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: brown;
+    font-weight: bolder;
+    color: aqua;
+    }
